@@ -1,44 +1,21 @@
-<h1 align="center">Naajis Siddiqui</h1>
-<p align="center">
-  Full Stack Developer focused on building scalable, data-driven applications.
-</p>
+## About Me
+
+👋 Hi there! I'm **Naajis Siddiqui**, a Computer Engineering student with a strong interest in building full-stack applications and data-driven systems.  
+
+I enjoy developing scalable applications using modern web and mobile technologies. Recently, I've been working on projects involving **React Native, backend APIs, and product data analysis systems**. I'm always exploring new technologies and looking for opportunities to build impactful software.
 
 ---
 
-## About
+## Languages and Tools
 
-I design and develop full-stack applications with a focus on clean architecture,
-performance, and real-world problem solving.
-
-Currently working on product intelligence systems, and backend optimization for scalable applications.
-
----
-
-## Tech Stack
-
-**Frontend**
-- React
-- React Native
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Concepts**
-- REST APIs
-- Authentication & OAuth
-- API Integration
-- System Design Basics
-
-**Tools**
-- Git
-- Postman
-- VS Code
-
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
 
