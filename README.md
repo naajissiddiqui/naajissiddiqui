@@ -27,16 +27,3 @@ I enjoy developing scalable applications using modern web and mobile technologie
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naajissiddiqui&show_icons=true&theme=default" />
-</p>
-
----
-
-## Connect
-
-Open to collaboration on meaningful full-stack projects and scalable systems.
