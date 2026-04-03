@@ -6,7 +6,6 @@ I enjoy developing scalable applications using modern web and mobile technologie
 
 ---
 
-
 ## Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
