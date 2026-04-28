@@ -4,7 +4,6 @@
 
 I enjoy developing scalable applications using modern web and mobile technologies. Recently, I've been working on projects involving **React Native, backend APIs, and product data analysis systems**. I'm always exploring new technologies and looking for opportunities to build impactful software..
 
-
 ---
 
 ## Languages and Tools
