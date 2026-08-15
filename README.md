@@ -77,10 +77,10 @@ I care about the engineering underneath the feature; designing clean APIs, think
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naajissiddiqui&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naajissiddiqui&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naajissiddiqui&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naajissiddiqui&layout=compact&theme=default&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naajissiddiqui&theme=default&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=naajissiddiqui&theme=default&hide_border=true" width="60%" />
 </p>
