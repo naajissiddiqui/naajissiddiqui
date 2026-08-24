@@ -2,6 +2,7 @@
 
 <h3 align="center">Final-year Computer Engineering student building full-stack, AI-integrated, and blockchain-based systems.</h3>
 
+
 <p align="center">
 I care about the engineering underneath the feature; designing clean APIs, thinking through data models, and understanding how systems behave under real load, not just in a demo. My work spans full-stack development, backend architecture, applied machine learning, and blockchain-based applications. I'm currently deepening my data structures, algorithms, and system design skills, with a growing interest in distributed systems and cloud-native backend engineering. Open to Software Engineer internship and new-grad opportunities where I can work on real infrastructure at scale.
 </p>
