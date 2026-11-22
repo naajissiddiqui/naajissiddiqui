@@ -12,7 +12,6 @@ I care about the engineering underneath the feature; designing clean APIs, think
 📄 <a href="https://drive.google.com/file/d/15Dq1IfV8y1ygioab74bgfZ0tFbePAwLR/view?usp=drive_link">Resume</a>
 </p>
 
-
 ---
 
 ### 🛠️ Tech Stack
